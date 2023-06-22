@@ -1,4 +1,4 @@
 # pythonbasics2
-Python Basics Course \ 
-<learnpython.org>
+## Python Basics Course 
+[Learn Python](learnpython.org)
 
